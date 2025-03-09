@@ -79,3 +79,11 @@ button:hover {
     background: #cc5500;
     transform: scale(1.1);
 }
+.nav-links {
+    display: none;
+}
+
+.nav-links.active {
+    display: block;
+}
+
